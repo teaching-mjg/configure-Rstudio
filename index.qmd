@@ -4,3 +4,7 @@ format: html
 ---
 
 RStudio is easier to use if you configure some options first.
+
+On Windows, set some options for viewing files so that you can see the extensions
+
+View > Show extensions for known files types
