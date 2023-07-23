@@ -1,0 +1,6 @@
+---
+title: "How to configure RStudio"
+format: html
+---
+
+RStudio is easier to use if you configure some options first.
